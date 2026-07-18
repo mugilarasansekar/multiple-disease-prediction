@@ -52,4 +52,4 @@ Early detection of disease plays a major role in reducing treatment cost and imp
 - **Advanced Mode** — pick a disease and manually choose which model (Logistic Regression, Random Forest, or XGBoost) to predict with
 
 ## Deployment
-Streamlit link:
+Streamlit link: https://multiple-disease-prediction-data.streamlit.app/
